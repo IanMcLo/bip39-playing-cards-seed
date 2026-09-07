@@ -1,8 +1,17 @@
-# 🂡 BIP39 Playing Card Seed Generator
+# 🃏 BIP39 Playing Card Seed Generator
 
 Convert physical playing card draws into mathematically rigorous BIP-39 seed phrases. 
 
 This is a single, offline, network-free HTML file. It is a dumb calculator: it provides zero entropy of its own. The randomness comes entirely from the physical universe—your shuffling of a standard 52-card deck.
+
+## Screenshots
+
+<p float="left">
+  <img src="Photos/p1.jpg" alt="52-card tap grid, five cards per row on mobile" width="300">
+  <img src="Photos/p2.jpg" alt="Draw counter, Generate Seed and Clear controls" width="300">
+  <img src="Photos/p3.jpg" alt="Generated mnemonic and raw entropy panels" width="300">
+  <img src="Photos/p4.jpg" alt="Modulo bias audit terminal" width="300">
+</p>
 
 ## Core Philosophy: Zero Extraction, Exact Sampling
 
