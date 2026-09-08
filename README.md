@@ -4,6 +4,11 @@ Convert physical playing card draws into mathematically rigorous BIP-39 seed phr
 
 This is a single, offline, network-free HTML file. It is a dumb calculator: it provides zero entropy of its own. The randomness comes entirely from the physical universe—your shuffling of a standard 52-card deck.
 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![HTML 100%](https://img.shields.io/badge/HTML-100%25-orange)]()
+
+
 ## Screenshots
 
 <p float="left">
